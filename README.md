@@ -3,7 +3,7 @@
 - 🌱 I'm focused on being a backend programmer, but keeping my frontend skills relevant
 - 📫 contacts:
     - e-mail: vkotelinkov@my.com
-    - Telegram t.me/Rusty_Skrew
+    - Telegram [Rusty_Skrew](HTTPS://t.me/Rusty_Skrew)
 
 <!---
 vkotelnikov/vkotelnikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
