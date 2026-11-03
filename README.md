@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @vkotelnikov
-- 👀 I’m interested in growing professionally as a software developer
-- 🌱 I'm focused on being a backend programmer, but keeping my frontend skills relevant
 - 📫 contacts:
-    - e-mail: vkotelinkov@my.com
     - Telegram [Rusty_Skrew](HTTPS://t.me/Rusty_Skrew)
 
 <!---
